@@ -1,0 +1,17 @@
+{
+  "urls": 
+        {
+          "url": "https://transloc-api-1-2.p.rapidapi.com/agencies.json"
+        },
+  "header":
+          {
+            "x-rapidapi-host": "transloc-api-1-2.p.rapidapi.com",
+            "x-rapidapi-key": "7059146178msh9966b202b2eb9a7p1ecb62jsn548697df678a"
+          },
+  "params":
+          {
+            "callback":"call",
+            "geo_area":"35.80176,-78.64347|35.78061,-78.68218",
+            "agencies":"12"
+          }
+}

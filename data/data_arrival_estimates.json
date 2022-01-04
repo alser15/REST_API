@@ -1,0 +1,18 @@
+{
+  "urls":
+        {
+          "url": "https://transloc-api-1-2.p.rapidapi.com/arrival-estimates.json"
+        },
+  "header":
+          {
+            "x-rapidapi-host": "transloc-api-1-2.p.rapidapi.com",
+            "x-rapidapi-key": "7059146178msh9966b202b2eb9a7p1ecb62jsn548697df678a"
+          },
+  "params":
+          {
+            "agencies":"12,16",
+            "routes":"4000421,4000592,4005122",
+            "stops":"4002123,4023414,4021521",
+            "callback":"call"
+          }
+}
