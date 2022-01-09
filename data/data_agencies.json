@@ -1,8 +1,11 @@
 {
   "urls": 
-        {
-          "url": "https://transloc-api-1-2.p.rapidapi.com/agencies.json"
+        [{
+          "url": "https://transloc-api-1-2.p.rapidapi.com/agencies1.json"
         },
+          {
+          "url": "https://transloc-api-1-2.p.rapidapi.com/agencies.json"
+        }],
   "header":
           {
             "x-rapidapi-host": "transloc-api-1-2.p.rapidapi.com",
@@ -14,4 +17,5 @@
             "geo_area":"35.80176,-78.64347|35.78061,-78.68218",
             "agencies":"12"
           }
+
 }
